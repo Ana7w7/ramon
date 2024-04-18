@@ -38,7 +38,14 @@ body {
     padding: 50px 0;
     background-color: #fff;
 }
-
+.main-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
 .container h1 {
     font-size: 36px;
     margin-bottom: 20px;
